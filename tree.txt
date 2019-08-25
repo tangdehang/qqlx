@@ -1,0 +1,157 @@
+Folder PATH listing
+Volume serial number is 65F3-3762
+E:.
+©¦   .babelrc
+©¦   .editorconfig
+©¦   .gitignore
+©¦   .postcssrc.js
+©¦   index.html
+©¦   package-lock.json
+©¦   package.json
+©¦   README.md
+©¦   tree.txt
+©¦   
+©À©¤©¤©¤.idea
+©¦   ©¦   APPDemo.iml
+©¦   ©¦   misc.xml
+©¦   ©¦   modules.xml
+©¦   ©¦   qq.iml
+©¦   ©¦   vcs.xml
+©¦   ©¦   watcherTasks.xml
+©¦   ©¦   workspace.xml
+©¦   ©¦   
+©¦   ©À©¤©¤©¤codeStyles
+©¦   ©¦       codeStyleConfig.xml
+©¦   ©¦       
+©¦   ©¸©¤©¤©¤inspectionProfiles
+©À©¤©¤©¤.vscode
+©¦       settings.json
+©¦       
+©À©¤©¤©¤build
+©¦       build.js
+©¦       check-versions.js
+©¦       logo.png
+©¦       utils.js
+©¦       vue-loader.conf.js
+©¦       webpack.base.conf.js
+©¦       webpack.dev.conf.js
+©¦       webpack.prod.conf.js
+©¦       
+©À©¤©¤©¤config
+©¦       dev.env.js
+©¦       index.js
+©¦       prod.env.js
+©¦       
+©À©¤©¤©¤src
+©¦   ©¦   App.vue
+©¦   ©¦   main.js
+©¦   ©¦   
+©¦   ©À©¤©¤©¤assets
+©¦   ©¦   ©À©¤©¤©¤css
+©¦   ©¦   ©¦       base.less
+©¦   ©¦   ©¦       icon.less
+©¦   ©¦   ©¦       index.less
+©¦   ©¦   ©¦       mixin.less
+©¦   ©¦   ©¦       reset.less
+©¦   ©¦   ©¦       variable.less
+©¦   ©¦   ©¦       
+©¦   ©¦   ©À©¤©¤©¤fonts
+©¦   ©¦   ©¦       icomoon.eot
+©¦   ©¦   ©¦       icomoon.svg
+©¦   ©¦   ©¦       icomoon.ttf
+©¦   ©¦   ©¦       icomoon.woff
+©¦   ©¦   ©¦       
+©¦   ©¦   ©À©¤©¤©¤image
+©¦   ©¦   ©¦       logo.png
+©¦   ©¦   ©¦       
+©¦   ©¦   ©¸©¤©¤©¤js
+©¦   ©¦           appback.js
+©¦   ©¦           history.js
+©¦   ©¦           mixin.js
+©¦   ©¦           util.js
+©¦   ©¦           
+©¦   ©À©¤©¤©¤base
+©¦   ©¦       bubble.vue
+©¦   ©¦       err.vue
+©¦   ©¦       fileup.vue
+©¦   ©¦       historyItem.vue
+©¦   ©¦       loading.vue
+©¦   ©¦       message.vue
+©¦   ©¦       nocomment.vue
+©¦   ©¦       nolist.vue
+©¦   ©¦       picture.vue
+©¦   ©¦       return.vue
+©¦   ©¦       scroll.vue
+©¦   ©¦       send.vue
+©¦   ©¦       slider.vue
+©¦   ©¦       toast.vue
+©¦   ©¦       updown.vue
+©¦   ©¦       upload.vue
+©¦   ©¦       vialogList.vue
+©¦   ©¦       
+©¦   ©À©¤©¤©¤components
+©¦   ©¦   ©¦   bgImg.vue
+©¦   ©¦   ©¦   groupItem.vue
+©¦   ©¦   ©¦   personItem.vue
+©¦   ©¦   ©¦   personlist.vue
+©¦   ©¦   ©¦   tab.vue
+©¦   ©¦   ©¦   vInput.vue
+©¦   ©¦   ©¦   
+©¦   ©¦   ©¸©¤©¤©¤messageBox
+©¦   ©¦       ©¦   index.js
+©¦   ©¦       ©¦   message.vue
+©¦   ©¦       ©¦   
+©¦   ©¦       ©¸©¤©¤©¤assets
+©¦   ©¦               error.svg
+©¦   ©¦               info.svg
+©¦   ©¦               success.svg
+©¦   ©¦               warning.svg
+©¦   ©¦               
+©¦   ©À©¤©¤©¤pages
+©¦   ©¦       dynamic.vue
+©¦   ©¦       group.vue
+©¦   ©¦       groupRoom.vue
+©¦   ©¦       login.vue
+©¦   ©¦       message.vue
+©¦   ©¦       news.vue
+©¦   ©¦       person.vue
+©¦   ©¦       room.vue
+©¦   ©¦       
+©¦   ©À©¤©¤©¤router
+©¦   ©¦       index.js
+©¦   ©¦       
+©¦   ©¸©¤©¤©¤store
+©¦           actions.js
+©¦           getters.js
+©¦           index.js
+©¦           mutations.js
+©¦           state.js
+©¦           
+©¸©¤©¤©¤static
+    ©¦   .gitkeep
+    ©¦   
+    ©À©¤©¤©¤gitImg
+    ©¦       back.gif
+    ©¦       find.gif
+    ©¦       groups.gif
+    ©¦       login.gif
+    ©¦       me.gif
+    ©¦       news.gif
+    ©¦       pages.gif
+    ©¦       registor.gif
+    ©¦       send.gif
+    ©¦       
+    ©¸©¤©¤©¤image
+            006.jpg
+            err.png
+            group.jpg
+            loading.gif
+            loginbg.jpg
+            loginbg1.jpg
+            me.png
+            news.png
+            nocomment.png
+            noList.png
+            preloading.jpg
+            robot.jpg
+            
