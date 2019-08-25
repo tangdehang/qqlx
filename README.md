@@ -4,16 +4,26 @@
 vue+vuex+vue-router+better-scroll+socket.io+koa2+mongodb+pm2自动化部署+图灵机器人+nginx+linux部署
 
 ## 功能清单
-1、注册登录选择头像功能(canvas压缩大图片)；
+1、注册登录选择头像功能(canvas压缩大图片)
+
 2、即时查看在线离线人员;
+
 3、对聊、下拉加载更多信息、点击查看高清大图可左右滑动
+
 4、群聊、下拉加载更多信息、点击查看高清大图可左右滑动
+
 5、智能机器人对聊、下拉加载更多信息、点击查看高清大图可左右滑动
+
 6、点击头像查看用户信息、可看关注、聊天、查看高清大图；
+
 7、查看文章，支持上拉加载下拉刷新、评论、收藏、关注；
+
 8、进入文章可以评论、回复、收藏、喜欢、点赞；
+
 9、搜索、搜索用户姓名和文章、热门搜索、历史搜索；
+
 10、我的个人中心、查看我的发布、收藏、喜欢的文章；
+
 11、我的个人中心、我的关注、粉丝、评论、回复
 私聊
 
@@ -162,6 +172,18 @@ E:.
 
 ```
 该项目基础组件20个公共组件10个页面组件23个总共43个组件；
+
+## 项目概况
+![注册](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/registor.gif)
+![登录](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/login.gif)
+![页面](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/page.gif)
+![发送](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/send.gif)
+![群组](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/groups.gif)
+![朋友圈](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/news.gif)
+![查找](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/search.gif)
+![我的](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/me.gif)
+![返回](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/back.gif)
+
 ## Build Setup
 
 ``` bash
