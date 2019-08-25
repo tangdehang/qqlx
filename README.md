@@ -176,11 +176,11 @@ E:.
 ## 项目概况
 ![注册](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/registor.gif)
 ![登录](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/login.gif)
-![页面](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/page.gif)
+![页面](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/pages.gif)
 ![发送](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/send.gif)
 ![群组](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/groups.gif)
 ![朋友圈](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/news.gif)
-![查找](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/search.gif)
+![查找](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/find.gif)
 ![我的](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/me.gif)
 ![返回](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/back.gif)
 
