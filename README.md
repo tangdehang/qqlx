@@ -184,6 +184,8 @@ E:.
 ![我的](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/me.gif)
 ![返回](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/back.gif)
 
+
+## 遇到问题可以加我qq384434682
 ## Build Setup
 
 ``` bash
