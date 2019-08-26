@@ -2,6 +2,7 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 
  // import './assets/js/appback'
+import token from './assets/js/token'
 import Vue from 'vue'
 import App from './App'
 import router from './router'
@@ -22,14 +23,11 @@ Vue.use(VueLoay, {
 
 Vue.use(VMessage)
 Vue.use(Mui)
-axios.defaults.baseURL = 'xxxx'; //获取接口+qq384434682
+axios.defaults.baseURL = '/server'; //获取接口+qq384434682
 axios.interceptors.request.use(
   config => {
-    const token = localStorage.getItem("token");
-    if (token) {
       // JWT的认证头部信息+qq384434682
-
-    }
+      config.headers.common['Authorization'] = 'Bearer '+token;
     return config;
   },
   err => {

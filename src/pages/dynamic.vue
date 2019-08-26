@@ -99,8 +99,9 @@ export default {
         margin-top: 10px;
         text-align: center;
         p{
-          font-size: 14px;
+          font-size: 12px;
           line-height: 18px;
+          text-align: left;
         }
       }
 

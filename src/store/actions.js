@@ -5,7 +5,7 @@ const token = localStorage.getItem('token');
 axios.defaults.headers.common['Authorization'] = token;
 import io from 'socket.io-client'
 //const socket = io.connect('ws://localhost:3444')
-const socket = io.connect('http://qq.mmys.fun')
+const socket = io.connect('http://mm.mmys.fun')
 export default {
   // 关闭socket
   socketOut() {
@@ -45,7 +45,7 @@ export default {
         return item._id === state.userList._id
       })
       commit('set_personList', list)
-      commit('set_users',item)
+      commit('set_users',item||{})
     })
   },
 

@@ -31,7 +31,11 @@
     },
     created() {
       this.pullUpLoad = true;
+    },
+    activated(){
       this.initNews();
+      this.$refs.scroll.scrollTo(0,0)
+      this.$refs.scroll.openPullUp();
     },
     methods: {
       initNews(status) {

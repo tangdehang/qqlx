@@ -61,7 +61,7 @@
           @hidePictureClick="hidePictureClick"
         >
           <div v-for="(item,index) in pictureList" :key="index">
-            <img v-lazy="item" :key="item" @load="pictLoad" alt="">
+            <img v-lazy="item" :key="item" @load="pictLoad" alt=""  :style="{maxHeight:maxHeight+'px'}">
           </div>
         </v-picture>
       </div>

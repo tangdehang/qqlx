@@ -12,7 +12,16 @@ module.exports = {
     host: '0.0.0.0', // can be overwritten by process.env.HOST
     port: 8080, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
     // Various Dev Server settings
-
+    proxyTable: {
+      '/server': {
+        target: 'http://mm.mmys.fun',
+        changeOrigin: true,
+      },
+      '/server/*': {
+        target: 'http://mm.mmys.fun',
+        changeOrigin: true,
+      }
+    },
     autoOpenBrowser: false,
     errorOverlay: true,
     notifyOnErrors: true,

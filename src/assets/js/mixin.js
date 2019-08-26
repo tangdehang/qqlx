@@ -11,7 +11,8 @@ const RoomMinxins = {
       showPicture: false,
       PER_PAGE: 20,
       pullDownRefresh:true,
-      listenBeforeScroll : true
+      listenBeforeScroll : true,
+      maxHeight:window.innerHeight
     };
   },
   methods: {
