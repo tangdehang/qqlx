@@ -192,7 +192,7 @@ E:.
 ![app](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/app.png)
 
 
-## 遇到问题可以加我qq384434682
+## 获取用户名和密码加我qq384434682
 ## Build Setup
 
 ``` bash
