@@ -185,6 +185,13 @@ E:.
 ![返回](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/back.gif)
 
 
+## 微信扫码体验
+![移动端访问](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/wx.png)
+
+## app下载访问(更好体验请下载app)
+![app](https://raw.githubusercontent.com/TJLHQ/qqlx/master/static/gitImg/app.png)
+
+
 ## 遇到问题可以加我qq384434682
 ## Build Setup
 
